@@ -1,9 +1,3 @@
+  <h1 align="center">Foodie - Fast Food Website</h1>
 
-  <h2 align="center">Foodie - Fast food website</h2>
-
-  Foodie is a fully responsive fast food website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/foodie/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
+  Foodie is a full stack responsive fast food website. <br />It is Responsive for all devices, and is built using React.js, Express.js, MongoDB and Node.js.
